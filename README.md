@@ -1,2 +1,2 @@
 # portfolio_1
-This is basic Portfolio using HTML5 , CSS3 , JAVASCRIPT.
+This is basic Portfolio Website using HTML5 , CSS3 , JAVASCRIPT.
